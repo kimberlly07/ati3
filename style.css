@@ -42,7 +42,7 @@ footer{
 
 }
 
-.conteudo-cartao{
+.conteudo-cartao h3{
     position: absolute;
     text-align: left;
     border: 1px solid var(--destaque);
