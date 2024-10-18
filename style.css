@@ -47,7 +47,7 @@ footer{
     position: absolute;
     text-align: left;
     border: 1px solid var(--destaque);
-    border-radius: 6rem;
+    border-radius: 8rem;
     margin: 0.6rem;
     padding: 0.6rem;
     backface-visibility: hidden;
