@@ -85,7 +85,7 @@ criaCartao(
     
     criaCartao(
     'Língua Inglesa',
-    'Qual é o plural de criança?',
+    'Qual é o plural de criança, em inglês?',
     'Children')
     
     criaCartao(
