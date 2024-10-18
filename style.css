@@ -41,3 +41,12 @@ footer{
     height: 100%;
 
 }
+
+.conteudo-cartao{
+    position: absolute;
+    text-align: left;
+    border: 1px solid var(--destaque);
+    border: 6rem;
+    margin: 0.6rem;
+    padding: 0.6rem;
+}
