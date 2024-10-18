@@ -45,7 +45,7 @@ footer{
     position: absolute;
     text-align: left;
     border: 1px solid var(--destaque);
-    border: 6rem;
+    border-radius: 6rem;
     margin: 0.6rem;
     padding: 0.6rem;
 }
