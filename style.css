@@ -75,4 +75,5 @@ footer{
     font-weight: 700;
     color: var(--destaque);
     border: 1px solid var(--destaque);
+    background-color: var(--cartap-verso);
 }
