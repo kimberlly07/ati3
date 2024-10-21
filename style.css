@@ -26,6 +26,11 @@ header{
     align-items: center;
     justify-content: space-between;
     background-color: var(--preto);
+    padding: 2rem;
+}
+
+header a{
+    color: var(--branco);
 }
 
 #container{
