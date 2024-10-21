@@ -57,7 +57,7 @@ header a{
     background-color: var(--cartao-frente);
     padding: 2rem;
     text-align: center;
-    color: var(--branco);
+    color: var(--destaque);
     margin: 1rem;
     display: none;
 }
